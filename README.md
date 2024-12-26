@@ -1,5 +1,5 @@
 
-<h1 align="center" id="title">Luma Web Automation</h1>
+<h1 align="center" id="title">API Automation Using Cypress</h1>
 
 <p align="center"><img src="https://socialify.git.ci/niloytanvir/API-Automation-Using-Cypress/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="API-Automation-Using-Cypress" width="640" height="320" /></p>
 
@@ -9,11 +9,11 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project's best features:
 
 *   Rest API Validation
 *   Different Types of Authentication Validation
-*   API Caining
+*   API Chaining
 *   JSON Schema Validation
 *   Query Parameter
 *   Parsing JSON and XML Response
